@@ -25,7 +25,7 @@ then send some http requests to:
 /api/thoughts/:thoughtId
 /api/thoughts/:thoughtId/reactions  
 
-link to HowToUse video: https://app.screencastify.com/v3/watch/9h48FMaYM5isJdsvexmj
+link to HowToUse video: https://drive.google.com/file/d/10X6f6K-xSNWZ5lnWsQ2dVAYZXEXfPOIu/view
 ## License
   [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
   
